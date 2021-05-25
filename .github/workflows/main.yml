@@ -32,7 +32,7 @@ jobs:
 
       #create README.md
       - name: create markdown
-        run: python repo_list.py ${{ secrets.GITHUB_TOKEN }} 
+        run: python create_registry.py ${{ secrets.GITHUB_TOKEN }} 
 
       - run: git config user.email "huaning.y@gmail.com"
       
