@@ -7,7 +7,7 @@ on:
       logLevel:
         description: 'Trigger this workflow to update the README.md'
         required: true
-        default: 'warning'
+        default: 'Running this action will overwrite the current README.md'
       tags:
         description: 'Test scenario tags'
 
