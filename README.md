@@ -157,6 +157,14 @@ Description: The current default IQB Item for computer based accessment: The Dan
 ********  
 Repository: [verona-player-simple](https://github.com/iqb-berlin/verona-player-simple) Release: [1.1.0](https://github.com/iqb-berlin/verona-player-simple/releases/tag/1.1.0)  
 Description: A dependency-free, vanilla-js Verona2-Player which can run HTML-forms as Units  
+**Metadata from HTML**  
+``` json  
+data-version: 1.0.1  
+content: verona-simple-player-1.1.0  
+data-repository-url: https://github.com/iqb-berlin/testcenter-backend  
+data-api-version: 2.1.0  
+data-supported-browsers: {"Firefox": 69, "Chrome": 72, "Edge": 79}  
+```  
 ********  
 ********  
 Repository: [verona-player-testbed](https://github.com/iqb-berlin/verona-player-testbed) Release: [1.0.1](https://github.com/iqb-berlin/verona-player-testbed/releases/tag/1.0.1)  
