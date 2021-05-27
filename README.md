@@ -85,7 +85,7 @@ Description: Provides one big text input element to edit script based unit defin
 ```  
 ********  
 ********  
-Repository: [verona-player-abi](https://github.com/iqb-berlin/verona-player-abi) Release: [v3.3.2](https://github.com/iqb-berlin/verona-player-abi/releases/tag/v3.3.2)  
+Repository: [verona-player-abi](https://github.com/iqb-berlin/verona-player-abi) Release: [v3.3.3](https://github.com/iqb-berlin/verona-player-abi/releases/tag/v3.3.3)  
 Description: A programmable item-player for surveys. Contains: Player-Plugin, Editor-Plugin   
 **JSON LD from HTML file**  
 ``` json  
@@ -109,7 +109,7 @@ Description: A programmable item-player for surveys. Contains: Player-Plugin, Ed
         "de": "Dieser Player interpretiert eine Script-Sprache, die speziell für die effiziente Erstellung umfangreicher Befragungen entwickelt wurde. Über die gängigen Frageformate hinaus werden bedingte Formularblöcke, dynamische Wiederholungen von Blöcken und Likert-skalen unterstützt.",
         "en": "You can use this Verona Player for surveys where you need a large number of questions. By interpreting it's own script language, the player just need one line per control definition. You can setup conditional blocks, repeating blocks or likert scale tables."
     },
-    "version": "3.3.2",
+    "version": "3.3.3",
     "apiVersion": "2.1",
     "repository": {
         "type": "git",
