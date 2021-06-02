@@ -1,6 +1,13 @@
 name: Auto create/update README.md
 
 on:
+  # this is code for the eventual scheduled run
+  
+  #schedule:
+  ## intro to scheduled actions: https://jasonet.co/posts/scheduled-actions/
+  ## this runs at the end of every day
+    #- cron: 0 0 * * *
+  
   # this is for manual triggering of the workflow
   workflow_dispatch:
     inputs:
